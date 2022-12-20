@@ -5,7 +5,7 @@
 
 Даний прототип є доволі доступним рішенням для більшості приватних будинків. Імплементація не вимагає  специфічних знань. Єдине що потрібно для реалізації це метал та вміння користуватись інструментами для металообробки ( різання і зварювання).
 
-Цей open source проект містить [українську](https://github.com/Ostriv-platform/Showerloop_MOD/tree/main/UA) та [англійську](https://github.com/Ostriv-platform/Showerloop_MOD/tree/main/ENG) версії.
+Цей open source проект містить [українську](https://github.com/Ostriv-platform/Wood_chip_stove/tree/main/UA) та [англійську](https://github.com/Ostriv-platform/Wood_chip_stove/tree/main/ENG) версії.
 
 ### Команда розробників:
 Сах Ігор, Яцик Петро, Сах Роман
@@ -25,7 +25,7 @@ Tolocar — програма, яка реалізується у співпра�
 
 This prototype is a fairly affordable solution for most private homes. Implementation does not require specific knowledge. The only thing needed for implementation is metal and the ability to use tools for metalworking (cutting and welding).
 
-This open source project contains [Ukrainian](https://github.com/Ostriv-platform/Showerloop_MOD/tree/main/UA) and [English](https://github.com/Ostriv-platform/Showerloop_MOD/tree/main/ENG) versions.
+This open source project contains [Ukrainian](https://github.com/Ostriv-platform/Wood_chip_stove/tree/main/UA) and [English](https://github.com/Ostriv-platform/Wood_chip_stove/tree/main/ENG) versions.
 
 ### Project team:
 Sakh Ihor, Yatsyk Petro, Sakh Roman
