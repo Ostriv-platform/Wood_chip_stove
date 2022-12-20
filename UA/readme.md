@@ -6,11 +6,11 @@
 
 ### Матеріали проекту
 
-- [3D перегляд](https://sketchfab.com/3d-models/showerloop-c81902937d714d8a92df5faddf62d5df) (+схема)
-- [Фото прототипу](https://github.com/Ostriv-platform/Showerloop_mod/tree/main/UA/Photo)
-- [Відео огляд](https://www.youtube.com/watch?v=5W0fS3685UU&ab_channel=SergiiDumyk)
-- [Складові деталі](https://github.com/Ostriv-platform/Showerloop_mod/tree/main/UA/Calculation) (+кошторис)
-- [3D моделі](https://github.com/Ostriv-platform/Showerloop_mod/tree/main/UA/3D%20models) (завантажити)
+- [3D перегляд](https://sketchfab.com/3d-models/stove-prototype-10-52218750ea024a8d8f91d65e440f9fa2) (перша ітерація)
+- [3D перегляд](https://sketchfab.com/3d-models/stove-prototype-20-52fff2d47ecf4f34a340b4a304733834) (друга ітерація)
+- [Фото компонентів](https://github.com/Ostriv-platform/Wood_chip_stove/tree/main/UA/Photo/Preparations)
+- [Фото тестів тепловізором](https://github.com/Ostriv-platform/Wood_chip_stove/tree/main/UA/Photo/Test)
+- [3D моделі](https://github.com/Ostriv-platform/Wood_chip_stove/tree/main/UA/3D%20models) (завантажити)
 
 ## Інструкція
 
