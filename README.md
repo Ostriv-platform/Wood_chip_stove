@@ -21,7 +21,7 @@ Tolocar — програма, яка реалізується у співпра�
 
 <br/><br/>
 
-# Showerloop (modification)
+# Stove on wooden shavings
 
 This prototype is a fairly affordable solution for most private homes. Implementation does not require specific knowledge. The only thing needed for implementation is metal and the ability to use tools for metalworking (cutting and welding).
 
