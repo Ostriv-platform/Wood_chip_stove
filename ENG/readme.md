@@ -12,52 +12,52 @@ This prototype is a fairly affordable solution for most private homes. Implement
 - [Photo of thermal imager tests](https://github.com/Ostriv-platform/Wood_chip_stove/tree/main/ENG/Photo/Test)
 - [3D models](https://github.com/Ostriv-platform/Wood_chip_stove/tree/main/ENG/3D%20models) (download)
 
-## Інструкція
+## Instruction
 
-#### Матеріали: 
-Корпус - листовий метал( підійде вживаний метал який можна знайти пунктах прийому металолому).Також можливе виготовлення листового корпусу з вогнетривкої цегли або глини)
-Змінний контейнер для стружки -  старі металеві бочки ( допускаються отвори і  деформації)
-Чим товстіший метал  для корпусу пічки тим  довший термін служби а також менші деформації конструкції. Для змінного контейнера навпаки рекомендуємо броти тонший метал так як це полегшить процес експлуатації (завантаження та вивантаження)
-Сировина: дерев’яна стружка (відходи виробництв), подрібнені гілки  з саду та інша дрібна неліквідна деревина.
-Необхідні інструменти : Інструмент для різки металу (болгарка або  ручний плазморіз) та  зварювальний апарат. 
-Час роботи: Одна загрузка горить 8-12 годин і виділяти велику кількість тепла без  постійного підкидання сировин. В середньому температура корпусу становить 150-400 градусів  протягом всього періоду роботи.
+#### Materials:
+Body - sheet metal (used metal that can be found at scrap metal collection points is suitable). It is also possible to make a sheet body from refractory brick or clay)
+Replaceable container for shavings - old metal barrels (holes and deformations are allowed)
+The thicker the metal for the stove body, the longer the service life and the smaller the structural deformations. For a replaceable container, on the contrary, we recommend using a thinner metal, as this will facilitate the operation process (loading and unloading)
+Raw materials: wood shavings (industrial waste), chopped branches from the garden and other small non-liquid wood.
+Necessary tools: A tool for cutting metal (a grinder or a manual plasma cutter) and a welding machine.
+Working time: One charge burns for 8-12 hours and emits a large amount of heat without constantly throwing up raw materials. On average, the body temperature is 150-400 degrees during the entire period of operation.
 
-#### Переваги:  
-- Однієї загрузки вистачає до 12 годин  роботи
-- Може працювати на будь яких подрібнених дерев’яних відходах
-- Проста і недорога у виготовлені
-- Можливість приготування іжі
+#### Benefits:
+- One charge is enough for up to 12 hours of work
+- Can work on any shredded wood waste
+- Simple and inexpensive to manufacture
+- The possibility of cooking food
 
-#### Застосування:
-Перший прототип тестується в  коридорі неутепленого  приватного житлового  будинку площею  більше 200 квадратних метрів. Його роботи вистачає для того щоб підтримувати комфортну температуру в коридорі в просторах загального користування і частині житлових приміщень при зовнішній температурі 0 -10 градусів морозу.
-Дана пічка чудово підійде і для опалення складських і виробничих приміщень. 
+#### Usage:
+The first prototype is tested in the corridor of an uninsulated private residential building with an area of more than 200 square meters. Its work is enough to maintain a comfortable temperature in the corridor in common areas and part of residential premises at an external temperature of 0-10 degrees below zero.
+This stove is perfect for heating warehouses and industrial premises.
 
-#### Опис конструкції та принципу роботи:
-Ми створюємо саморобний  паливний брикет з дерев'яної стружки  трамбуючи її в змінну металеву бочку(контейнер). 
-Основу конструкції складає дві ємності.Зовнішня може бути виконана з товстостінної бочки( або листового металу  як зображено на фото і схемах фізичного прототипу) або мурована з термостійкої цегли.Внутрішня ємність виготовляється з бочки меншого розміру. Внутрішня ємність виймається і наповнюється стружкою після повного остигання. В нашому випадку ми виготовили 3 змінні внутрішні ємності для зручності експлуатації а також для забезпечення неперервності процесу. 
+#### Description of the design and principle of operation:
+We create homemade fuel briquettes from wood chips by tamping them into a replaceable metal barrel (container).
+The basis of the structure is two containers. The outer one can be made of a thick-walled barrel (or sheet metal as shown in the photo and diagrams of the physical prototype) or made of heat-resistant brick. The inner container is made of a smaller barrel. The inner container is removed and filled with shavings after complete cooling. In our case, we made 3 replaceable internal containers for ease of use and to ensure the continuity of the process.
 
-В бочку трамбується дерев'яна стружка та інша подрібнена деревина а також можливо підмішувати    не  токсичне горюче сміття. В  дні бочки  наявний отвір через який буде надходити повітря для підтримки процесу горіння. під час наповнення бочки потрібно вставити пластикову трубу  в отвір дна. І утрамбувати стружку так що б труба не змістилась. Після повного заповнення бочки, труба виймається і в центрі бочки  утворюється отвір який проходить знизу і до самого верху. це дасть можливість стружці згоряти більш рівномірно і уникнути затухання.  Є ризик  що у випадку слабкого трамбування струдки після виймання трубки отвір може засипатись стружкою і процеси горіння не відбуватимуться тому особливу увагу приділити трамбуванню стружки безпосередньо навколо труби. 
+Wood shavings and other chopped wood are rammed into the barrel, and it is also possible to mix in non-toxic combustible garbage. At the bottom of the barrel there is a hole through which air will flow to support the combustion process. when filling the barrel, you need to insert a plastic pipe into the hole in the bottom. And tamp the shavings so that the pipe does not shift. After the barrel is completely filled, the pipe is removed and a hole is formed in the center of the barrel that goes from the bottom to the very top. this will allow the chips to burn more evenly and avoid fading. There is a risk that in the case of weak swarf tamping after removing the tube, the hole may be filled with swarf and combustion processes will not take place, so pay special attention to swarf tamping directly around the pipe.
 
-Внизу конструкції є шухляда яка виконує функцію повітряної заслонки (шуберта) а також через неї здійснюється запалювання пічки. 
-Після запалювання  стружки в шухляді  пічки вогонь через отвір внизу бочки потрапляє всередину і підпалює стружку  Пічка розгоряється доволі швидко. кришка  пічки може нагрітись до 200 градусів менше ніж за хвилину. Коли полумя розгорілось всередині ми можемо закрити подачу повітря щоб уповільнити  процес горіння. Якщо не закрити подачу повітря то температура конструкції може перевищити 600-700 градусів. бажано не допускати цього. Від такого нагріву метал починає деформуватись і вигоряти а також стружка в середині вигоряє дуже швидко і значна кількість тепла виходить просто в димохід на вулицю.
+At the bottom of the structure there is a drawer that performs the function of an air damper (shubert) and the stove is ignited through it.
+After igniting the shavings in the drawer of the stove, the fire enters through the hole at the bottom of the barrel and sets fire to the shavings. The stove heats up quite quickly. the oven lid can heat up to 200 degrees in less than a minute. When the flame has ignited inside, we can close the air supply to slow down the burning process. If the air supply is not closed, the temperature of the structure may exceed 600-700 degrees. it is desirable not to allow this. From such heating, the metal begins to deform and burn out, and the shavings in the middle burn out very quickly, and a significant amount of heat goes straight into the chimney and into the street.
 
-### Увага!! 
-Не підпалюйте  пічку якщо кришка не закрита. це дуже небезпечно так як в такому випадку стружка розгориться за лічені секунди і ви не зможете  її закрити після цього. 
+### WARNING!!
+Do not light the stove if the lid is not closed. this is very dangerous because in this case the chip will ignite in a matter of seconds and you will not be able to close it after that.
 
-### Статус
-Статус станом на 1.12.2022 - перша ітерація прототипу вже тестується декілька місяців і показує хороші результати. Друга ітерація прототипу з теплознімачем та тепловим акумулятором в процесі реалізації.  
+### Status
+Status as of 12/1/2022 - the first iteration of the prototype has already been tested for several months and is showing good results. The second iteration of the prototype with a heat sink and heat accumulator is in the process of implementation.
 
-### Наступні ітерації прототипів:
+### The following iterations of prototypes:
 
-1. Можливо додати водяний контур (як показано на схемі) і передавати значну частину тепла в бойлер або тепловий акумулятор і тим самим  отримати підігріту воду  в кранах і підтримати систему опалення в будинку ( за наявності)
-2. Якщо замінити кришку конструкції  на бочку ( збільшити  об'єм повітря всередині) це може збільшити тепловіддачу в простір.
-3. При можливості зовнішню оболонку краще обкласти   термомасою (каміння, цегла або глина) це дасть можливість збільшити  час віддачі тепла в простір.
-4. Завантаження  внутрішньої бочки можна  робити через дверки з боку. Таке завантаження буде фізично простіше а також дасть можливість краще  забирати тепло у верхній частині пічки  де воно найбільше концентрується.
+1. It is possible to add a water circuit (as shown in the diagram) and transfer a significant part of the heat to the boiler or heat accumulator and thereby obtain heated water in the taps and support the heating system in the house (if available)
+2. If you replace the lid of the structure with a barrel (increase the volume of air inside), it can increase heat transfer into space.
+3. If possible, it is better to cover the outer shell with thermal mass (stones, bricks or clay), this will make it possible to increase the time of heat transfer to the space.
+4. Loading of the inner barrel can be done through the side door. Such loading will be physically easier and will also provide an opportunity to better remove heat in the upper part of the stove, where it is most concentrated.
 
 
-### Команда розробників:
-Сах Ігор, Яцик Петро, Сах Роман
+### Project team:
+Sakh Ihor, Yatsyk Petro, Sakh Roman
 
-### Ліцензія 
-Цей проект є відкритим за умови некомерційного використання за ліцензією
+### License 
+This design is offered to make for non-commercial use under the terms of the following license: 
 [Creative Commons - Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
