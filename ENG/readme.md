@@ -47,7 +47,9 @@ Do not light the stove if the lid is not closed. this is very dangerous because 
 ### Status
 Status as of 12/1/2022 - the first iteration of the prototype has already been tested for several months and is showing good results. The second iteration of the prototype with a heat sink and heat accumulator is in the process of implementation.
 
-### The following iterations of prototypes:
+### The next iterations of prototypes:
+
+![alt text](https://github.com/Ostriv-platform/Wood_chip_stove/blob/main/second_iteration.jpg?raw=true)
 
 1. It is possible to add a water circuit (as shown in the diagram) and transfer a significant part of the heat to the boiler or heat accumulator and thereby obtain heated water in the taps and support the heating system in the house (if available)
 2. If you replace the lid of the structure with a barrel (increase the volume of air inside), it can increase heat transfer into space.
