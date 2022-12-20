@@ -2,4 +2,4 @@
 
 У форматі [FBX](https://github.com/Ostriv-platform/Wood_chip_stove/raw/main/3D%20models/Stove_prototype.fbx)
 
-У форматі [3DM](https://github.com/Ostriv-platform/Wood_chip_stove/tree/main/3D%20models/Rhino)(Rhinoceros)
+У форматі [3DM](https://github.com/Ostriv-platform/Wood_chip_stove/tree/main/3D%20models/Rhino) (Rhinoceros)
