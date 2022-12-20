@@ -10,7 +10,7 @@
 ### Команда розробників:
 Сах Ігор, Яцик Петро, Сах Роман
 
-Прототип розлоблено спільно з організацією [001](https://001.fyi) у межах Lifesystems Laboratory за підтримки Tolocar. 
+Прототип розроблено у межах Lifesystems Laboratory за підтримки Tolocar. 
 Tolocar — програма, яка реалізується у співпраці з MitOst і підтримується урядом Німеччини через Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH.
 
 ### Ліцензія 
@@ -30,7 +30,7 @@ This open source project contains [Ukrainian](https://github.com/Ostriv-platform
 ### Project team:
 Sakh Ihor, Yatsyk Petro, Sakh Roman
 
-The prototype was developed together with the [001](https://001.fyi) organization within the Lifesystems Laboratory with the support of Tolocar. Tolocar is a program implemented in cooperation with MitOst and supported by the German government through Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH.
+The prototype was developed within the Lifesystems Laboratory with the support of Tolocar. Tolocar is a program implemented in cooperation with MitOst and supported by the German government through Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH.
 
 ### License 
 
